@@ -1,0 +1,1 @@
+Este site tem como função adicionar pacientes em uma lista, através de sql, com seus respectivos dados e ver a lista.
